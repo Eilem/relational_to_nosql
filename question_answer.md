@@ -1,4 +1,5 @@
-´´´´json
+```json
+
 "_id_quiz" :"2"
 "_id": "12",
 "pergunta": "Quem descobriu o Brasil?",
@@ -17,4 +18,4 @@
     }
 ]
 
-´´´
+```
